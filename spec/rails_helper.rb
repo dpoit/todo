@@ -26,11 +26,11 @@ require 'rspec/rails'
 # If you are not using ActiveRecord, you can remove this line.
 ActiveRecord::Migration.maintain_test_schema!
 
-if ActiveRecord::Migrator.needs_migration?
-  ActiveRecord::Migrator.migrate(File.join(Rails.root, 'db/migrate'))
-end
-
-ActiveRecord::Migration.check_pending!
+# if ActiveRecord::Migrator.needs_migration?
+#   ActiveRecord::Migrator.migrate(File.join(Rails.root, 'db/migrate'))
+# end
+#
+# ActiveRecord::Migration.check_pending!
 
 RSpec.configure do |config|
   # Remove this line if you're not using ActiveRecord or ActiveRecord fixtures
