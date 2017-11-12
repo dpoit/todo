@@ -40,8 +40,8 @@ group :development, :test do
   gem 'byebug', platform: :mri
   # Use Rspec for testing
   gem 'rspec-rails', '~> 3.5'
-  # Use FactoryGirl for testing
-  gem 'factory_girl_rails', '~> 4.0'
+  # Use FactoryBot for testing
+  gem 'factory_bot_rails'
 end
 
 group :development do
