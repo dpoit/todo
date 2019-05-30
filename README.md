@@ -1,24 +1,15 @@
-# README
+# Todo
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This single-page to-do application features a fluid user interface that, by using JavaScript, allows users to rapidly add dynamic content.
 
-Things you may want to cover:
+## URL
 
-* Ruby version
+[https://todo-danny-poit.herokuapp.com/](https://todo-danny-poit.herokuapp.com/)
 
-* System dependencies
+## Authors
 
-* Configuration
+* **[Danny Poit](https://github.com/dpoit)**
 
-* Database creation
+## Acknowledgments
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* [The Firehose Project](http://thefirehoseproject.com/)
