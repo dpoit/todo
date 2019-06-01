@@ -16,6 +16,14 @@ To unmark a task, click the checkmarked circle next to it. This will remove the 
 
 <img src="https://i.imgur.com/HzuBgwy.png" alt="Todo app" width="500"/>
 
+## Tech used
+
+* [Rails](https://rubyonrails.org/) (5.0.7.2)
+* [RSpec](https://rspec.info/) (3.8.2)
+* [factory_bot](https://github.com/thoughtbot/factory_bot) (5.0.2)
+* [jQuery](https://jquery.com/)/[jquery-rails](https://github.com/rails/jquery-rails) (4.3.3)
+* [todomvc-app-css](https://www.npmjs.com/package/todomvc-app-css)
+
 ## Authors
 
 * **[Danny Poit](https://github.com/dpoit)**
