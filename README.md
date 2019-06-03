@@ -4,7 +4,7 @@ This single-page to-do application features a fluid user interface that, by usin
 
 ## URL
 
-[https://todo-danny-poit.herokuapp.com/](https://todo-danny-poit.herokuapp.com/)
+[http://todo.dannypoit.com/](http://todo.dannypoit.com/)
 
 ## Usage
 
